@@ -20,7 +20,7 @@ def buscar(mensaje,contaminacion,dummy):
 
 def main():#funcion principal
 
-  file = open("Leer.py","r")
+  file = open("testP1.txt","r")
   Lines = file.read().splitlines()
   #inicio de codigo:
 
